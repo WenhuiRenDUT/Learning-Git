@@ -12,6 +12,6 @@ int main()
     for (int i = 0; i < 10; i++) {
         x = x + i;
     }
-    std::cout<< x <<std::endl;
+    std::cout << x << std::endl;
     return 0;
 }
